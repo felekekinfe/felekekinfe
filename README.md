@@ -2,12 +2,9 @@
 
 [![An image of @felekekinfe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/felekekinfe)](https://holopin.io/@felekekinfe)
 
-- 🔭 I’m currently working on Python based web projects
-- 🌱 I’m currently learning Computer science and engineering 
+- 🔭 I’m currently working on Python based web projects and more...
+- 🌱 I’m currently studying Computer science and engineering 
 - 👯 I’m looking to collaborate on open source projects 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: felekekinfe@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---
+- ⚡ Fun fact: The earth is not flat!
+

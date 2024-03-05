@@ -1,4 +1,4 @@
-<h3 align="center">BackEnd Python Developer</h3>
+<h3 align="center">Python Developer</h3>
 
 - 🔭 I’m currently working on **python projects**
 

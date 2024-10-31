@@ -1,10 +1,10 @@
 <h3 align="center">Python Developer</h3>
 
-- 🔭 I’m currently working on **python projects**
+- 🔭 I’m currently working on **ML projects**
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **python,django**
+- 💬 Ask me about **python,machine learning **
 
 - 📫 How to reach me **felekekinfe@gmail.com**
 
